@@ -1,0 +1,3 @@
+[submodule "artpal"]
+	path = artpal
+	url = git://github.com/freerobby/artpal.git
