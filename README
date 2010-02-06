@@ -1,0 +1,4 @@
+This repository contains unit tests for the Artpal plugin for Wordpress.
+
+To run the tests, go to ./wordpress-tests and execute:
+  $ php wp-test.php -t TestPlugin
