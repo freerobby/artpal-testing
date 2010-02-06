@@ -1,0 +1,8 @@
+K 13
+svn:externals
+V 113
+wordpress http://svn.automattic.com/wordpress/trunk/
+wordpress-mu http://svn.automattic.com/wordpress-mu/trunk/
+
+
+END

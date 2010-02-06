@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/wordpress-tests/!svn/ver/286/wp-testdata/export
+END
+big-export.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/wordpress-tests/!svn/ver/197/wp-testdata/export/big-export.xml
+END
+test-serialized-postmeta-with-cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/wordpress-tests/!svn/ver/286/wp-testdata/export/test-serialized-postmeta-with-cdata.xml
+END
+test-serialized-postmeta-no-cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/wordpress-tests/!svn/ver/281/wp-testdata/export/test-serialized-postmeta-no-cdata.xml
+END
+asdftestblog1.2007-12-10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/wordpress-tests/!svn/ver/133/wp-testdata/export/asdftestblog1.2007-12-10.xml
+END
+asdftestblog1.2007-12-11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/wordpress-tests/!svn/ver/134/wp-testdata/export/asdftestblog1.2007-12-11.xml
+END
+asdftestblog1.2008-04-01.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/wordpress-tests/!svn/ver/205/wp-testdata/export/asdftestblog1.2008-04-01.sql
+END
+asdftestblog1.2007-11-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/wordpress-tests/!svn/ver/108/wp-testdata/export/asdftestblog1.2007-11-23.sql
+END
+asdftestblog1.2008-04-01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/wordpress-tests/!svn/ver/205/wp-testdata/export/asdftestblog1.2008-04-01.xml
+END
+asdftestblog1.2007-11-23.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/wordpress-tests/!svn/ver/93/wp-testdata/export/asdftestblog1.2007-11-23.xml
+END
+asdftestblog1.2007-12-14.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/wordpress-tests/!svn/ver/146/wp-testdata/export/asdftestblog1.2007-12-14.xml
+END
+asdftestblog1.2007-09-10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/wordpress-tests/!svn/ver/79/wp-testdata/export/asdftestblog1.2007-09-10.xml
+END
+asdftestblog1.2007-11-09.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/wordpress-tests/!svn/ver/79/wp-testdata/export/asdftestblog1.2007-11-09.xml
+END

@@ -1,0 +1,543 @@
+
+/*
+Theme: WPtouch Mobile
+
+*/
+
+/* @group Body and Theme-Wide Elements */
+
+body {
+	direction:rtl;
+	unicode-bidi:embed;
+}
+
+ol {
+	padding: 0 20px 0 25px;
+}
+
+blockquote {
+	background-position: left -2px;
+	text-align: right;
+}
+
+.result-text-footer {
+	margin-right: 10px;
+	margin-left: 0;
+}
+
+.pageentry h2, .mainentry h2 {
+	text-align: right;
+}
+
+.pageentry h3, .mainentry h3 {
+	text-align: right;
+}
+
+/* @end */
+
+/* @group Header */
+
+#headerbar {
+	background-position: 100% 0 !important;
+}
+
+#headerbar-title {
+	padding-right: 10px;
+	padding-left: 0;
+}
+
+#headerbar-title img {
+	margin-left: 7px;
+	margin-right: 0;
+	float: right;
+}
+
+#headerbar-menu {
+	left: 0;
+	right:auto;
+}
+
+#headerbar-menu a {
+	background-position: 100% 0;
+}
+
+#headerbar-menu .open {
+	background-position: 100% -45px;
+}
+
+/* @group Drop-Fade Links */
+
+#drop-fade {
+	text-align: left;
+}
+
+#drop-fade a.top {
+	margin-left: 12px;
+	margin-right: -1px;
+	float: left;
+}
+
+#drop-fade #catsopen {
+	background-position:100% -45px;
+	padding-right: 16px;
+	padding-left: 0;
+}
+
+#drop-fade #tagsopen {
+	background-position:100% 8px;
+	padding-right: 16px;
+	padding-left: 0;
+}
+
+#drop-fade #loginopen {
+	background-position:100% 31px;
+	padding-right: 16px;
+	padding-left: 0;
+}
+
+#drop-fade #accountopen {
+	padding-right: 18px;
+	padding-left: 0;
+	background-position:100% -14px;
+}
+
+#drop-fade .dropper ul li a {
+	padding-right: 15px;
+	padding-left: 0;
+}
+
+/* @end */
+
+/* @group DropDown Menu */
+
+#wptouch-menu-inner img {
+	float: right;
+	left: 0;
+	right: auto;
+}
+
+.dropper li {
+	background-position: left center;
+	text-align: right;
+}
+
+.dropper a {
+	padding: 10px 0 10px 35px;
+	text-align: right;
+}
+
+/* @end */
+
+/* @group Login */
+
+#wptouch-login {
+	top: 0;
+	right: 0;
+	left: auto;
+}
+
+#wptouch-login input#pwd {
+	margin-right: 5px;
+	margin-left: 0;
+}
+
+/* @end */
+
+/* @group Search */
+
+
+input#s {
+	margin-left: 3px;
+	margin-right: 0;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group Index Page */
+
+a.post-arrow {
+	float: left;
+}
+
+a.post-arrow-down {
+	float: left;
+}
+
+a.h2 {
+	text-align: right;
+}
+
+.mainentry a.read-more {
+	padding-left: 0;
+	padding-right: 10px;
+	background:transparent url(core/core-images/arrow-rtl.png) no-repeat scroll left 7px;
+}
+
+.comment-bubble {
+	background: url(core/core-images/sprite.png) no-repeat -2px -90px;
+	padding-right: 0;
+	padding-left: 1px;
+	margin-right: 0;
+	right: 1px;
+	left: autopx;
+	top: 1px;
+}
+
+.comment-bubble-big {
+	background: url(core/core-images/sprite.png) no-repeat -2px -66px;
+	right: 2px;
+	left: auto;
+   	padding-right: 0;
+	padding-left: 4px;
+	margin-right: 0;
+}
+
+.archive-top {
+	-webkit-border-top-left-radius: 8px;
+	-webkit-border-top-right-radius: 0;
+}
+
+.archive-top-right .post-arrow, .archive-top-right .post-arrow-down {
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+.archive-top-left.month-01, #arc-top.month-02, #arc-top.month-03, #arc-top.month-04, #arc-top.month-05, #arc-top.month-06, #arc-top.month-07, #arc-top.month-08, #arc-top.month-09, #arc-top.month-10, #arc-top.month-11, #arc-top.month-12 {
+	padding-right: 10px;
+	padding-left: 0;
+}
+
+.main-navigation .alignleft a {
+	float: right;
+	background-position: 100% -46px;
+	padding-right: 23px;
+	padding-left: 0;
+}
+
+.main-navigation .alignright a {
+	float: left;
+	padding-left: 35px;
+	padding-right: 0;
+	background-position: left -26px;
+	right: 15px;
+	left: auto;
+}
+
+.navigation .alignleft {
+        float: right;
+}
+
+.navigation .alignright {
+        float: left;
+}
+/* @group Calendar CSS Icons */
+
+.calendar {
+	margin-left: 10px;
+	margin-right: 0;
+	-webkit-border-top-right-radius: 9px;
+	-webkit-border-top-left-radius: 1px;
+	-webkit-border-bottom-right-radius: 1px;
+	-webkit-border-bottom-left-radius: 9px;
+	float: right;
+}
+
+.cal-month {
+	-webkit-border-top-right-radius: 7px;
+	-webkit-border-top-left-radius: 1px;
+}
+
+.cal-date {
+	-webkit-border-bottom-right-radius: 1px;
+	-webkit-border-bottom-left-radius: 9px;
+}
+/* @end */
+
+.post-author {
+	float: right;
+	text-align: right;
+}
+
+.post-author a {
+	text-align: right;
+}
+
+.post-dropper {
+	right: 30px;
+	left: auto;
+	float: right;
+}
+
+/* @group Ajax */
+
+.spin {
+	float: right;
+	left: 5px;
+	right: auto;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group Single Post Page */
+
+a.sh2 {
+	text-align: right;
+}
+
+.single-post-meta-top {
+	text-align: right;
+}
+
+.single-post-meta-bottom {
+	text-align: right;
+}
+
+/* @group Twitter / Bookmarking */
+
+#twitter-box img {
+	float: right;
+	margin-left: 5px;
+	margin-right: 0;
+	left: 3px;
+	right: 0;
+}
+
+#twitter-box li a {
+	padding-right: 10px;
+	padding-left: 0;
+}
+
+#bookmark-box img {
+	float: right;
+	margin-left: 5px;
+	margin-right: 0;
+	left: 3px;
+	right: 0;
+}
+
+#bookmark-box li a {
+	padding-right: 10px;
+	padding-left: 0;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group Pages */
+
+.page h2 {
+	padding-left: 0;
+	margin: 10px 42px 0 0;
+}
+
+img.pageicon {
+	margin-left: 10px;
+	float: right;
+	margin-right: 0;
+}
+
+/* @group Archives */
+
+
+#wptouch-archives a {
+	padding-right: 10px;
+	padding-left: 0;
+	background-position:; left center;
+}
+
+/* @end */
+
+/* @group Links */
+
+#wptouch-links a {
+	background-position: left center;
+}
+
+#wptouch-links img {
+	float: right;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group Comments */
+
+h3#com-head {
+	padding-right: 10px;
+	padding-left: 0;
+}
+
+h3#com-head img#com-arrow {
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+ol.commentlist li .avatar {
+	float: right;
+	border-right:0;
+	border-left: 1px solid #f9f9f9;
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+ol.commentlist .reply a, .comdater {
+	left: 5px;
+	right: auto;
+}
+
+.navigation.commentnav {
+	padding-left: 0;
+	padding-right: 10px;
+}
+
+.navigation.commentnav .alignright a {
+	background-position: left -26px;
+	padding-left: 35px;
+	padding-right: 0;
+}
+
+.navigation.commentnav .alignleft a {
+	background-position: right -46px;
+	padding-right: 25px;
+	padding-left: 0;
+}
+
+.comtop {
+	padding-right: 0;
+}
+
+.com-author a {
+	-webkit-border-top-left-radius: 0px;
+}
+
+.com-author {
+	-webkit-border-top-left-radius: 0px;
+	padding-right: 10px;
+	padding-left: o;
+}
+
+/*
+
+@end */
+
+/* @group Leaving A Comment */
+
+h3#comments, h3#respond {
+	padding-right: 10px;
+	padding-left: 0;
+}
+
+.preview span {
+	left: 62px;
+	right: auto;
+}
+
+
+#refresher {
+	padding: 10px 18px 10px 10px;
+}
+
+#refresher img {
+	float: right;
+	margin-left: 3px;
+	margin-right: -10px;
+}
+
+p.subscribe-to-comments input#subscribe {
+	padding-left: 3px;
+	padding-right: 0;
+}
+
+/* @end */
+
+
+
+/* @group Switch Link */
+
+#wptouch-switch-link a {
+	background-position: right top;
+	float: left;
+	right: 1px;
+	left: 0;
+}
+
+#wptouch-switch-link {
+	text-align: right;
+}
+
+.offimg {
+	background-position: right top !important;
+}
+
+/* @end */
+
+/* @end */
+
+/* @group Compatibility CSS */
+
+/* @group Intense Debate */
+
+/* @end */
+
+/* @group WPtouch Adsense area */
+
+.wptouch-adsense-ad {
+	text-align: right						    !important;
+}
+
+/* @end */
+
+/* @group Peter's Anti Spam Support */
+
+#secureimgdiv img#cas_image {
+	float: right								!important;
+}
+
+#secureimgdiv p input#securitycode {
+	-webkit-border-top-right-radius: 1px;
+	-webkit-border-top-left-radius: 0;
+	-webkit-border-bottom-right-radius: 1px;
+	-webkit-border-bottom-left-radius: 0;
+}
+
+/* @end */
+
+
+/* @group Post Options Bar */
+
+ul#post-options li a#oprev {
+	background-position: -15px -244px;
+	margin-right: 3px;
+	margin-left: 0;
+	border-left: 1px solid #cfcfcf;
+	border-right: 0;
+}
+
+ul#post-options li a#onext {
+	background-position: 5px -210px;
+	margin-left: 3px;
+	margin-right: 0;
+	border-right: 1px solid #cfcfcf;
+	border-left: 0;
+}
+
+/* @end */
+
+/* @group No Script */
+
+#noscript-wrap {
+	right: 0;
+	left: auto;
+}
+
+/* @end */
+
+/* @end */

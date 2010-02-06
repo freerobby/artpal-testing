@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/wordpress-tests/!svn/ver/289
+END
+wp-test.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/wordpress-tests/!svn/ver/289/wp-test.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/wordpress-tests/!svn/ver/11/README.txt
+END
+wp-config-sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/wordpress-tests/!svn/ver/36/wp-config-sample.php
+END

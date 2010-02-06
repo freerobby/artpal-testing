@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/wordpress-tests/!svn/ver/47/wp-testdata/themedir1/theme1
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/wordpress-tests/!svn/ver/47/wp-testdata/themedir1/theme1/style.css
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/wordpress-tests/!svn/ver/47/wp-testdata/themedir1/theme1/index.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/wordpress-tests/!svn/ver/47/wp-testdata/themedir1/theme1/functions.php
+END

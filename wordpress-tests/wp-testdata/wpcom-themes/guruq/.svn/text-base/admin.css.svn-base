@@ -1,0 +1,15 @@
+li#menu-posts {
+	display:none;
+}
+
+li#menu-pages {
+	display:none;
+}
+
+li#menu-links {
+	display:none;
+}
+
+li#menu-comments {
+	display:none;
+}

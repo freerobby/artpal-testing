@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob
+END
+generate_remove_accents_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/generate_remove_accents_tests.py
+END
+removes_accents_from_decomposable_latin1_supplement.input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_decomposable_latin1_supplement.input.txt
+END
+utf-8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/utf-8.txt
+END
+removes_accents_from_decomposable_latin1_supplement.output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_decomposable_latin1_supplement.output.txt
+END
+entitize.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/entitize.py
+END
+removes_accents_from_undecomposable_latin1_supplement.input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_undecomposable_latin1_supplement.input.txt
+END
+removes_accents_from_undecomposable_latin1_supplement.output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_undecomposable_latin1_supplement.output.txt
+END
+removes_accents_from_latin_extended_a.input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_latin_extended_a.input.txt
+END
+removes_accents_from_latin_extended_a.output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_latin_extended_a.output.txt
+END
+windows1252.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/windows1252.py
+END
+removes_accents_from_latin1_supplement_and_latin_extended_a.input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_latin1_supplement_and_latin_extended_a.input.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/README
+END
+removes_accents_from_latin1_supplement_and_latin_extended_a.output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_latin1_supplement_and_latin_extended_a.output.txt
+END
+entities.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/entities.txt
+END
+removes_accents_from_decomposable_latin_extended_a.input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_decomposable_latin_extended_a.input.txt
+END
+removes_accents_from_latin1_supplement.input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_latin1_supplement.input.txt
+END
+test_big5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/test_big5.txt
+END
+utf-8-urlencoded.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/utf-8-urlencoded.txt
+END
+removes_accents_from_latin1_supplement.output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_latin1_supplement.output.txt
+END
+removes_accents_from_decomposable_latin_extended_a.output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_decomposable_latin_extended_a.output.txt
+END
+utf-8-u-urlencoded.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/utf-8-u-urlencoded.txt
+END
+removes_accents_from_undecomposable_latin_extended_a.input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_undecomposable_latin_extended_a.input.txt
+END
+removes_accents_from_undecomposable_latin_extended_a.output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/removes_accents_from_undecomposable_latin_extended_a.output.txt
+END
+urlencode.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/urlencode.py
+END
+u-urlencode.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/u-urlencode.py
+END
+utf-8-entitized.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/wordpress-tests/!svn/ver/121/wp-testdata/jacob/utf-8-entitized.txt
+END

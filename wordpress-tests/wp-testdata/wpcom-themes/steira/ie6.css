@@ -1,0 +1,133 @@
+/* @group hicks */
+
+div, li {
+	zoom: 1;
+}
+
+/* @end */
+
+/* @group layout */
+
+#wrapper {
+}
+
+#masthead {
+	margin-right: -10px;
+}
+
+#body {
+	background:url("img/wrapper.gif") repeat-y scroll 509px 0 #FFFFFF;
+}
+
+hr  {
+	width: 470px;
+}
+
+#sidebar {
+	clear: left;
+	position: relative;
+	width: 400px;
+	overflow: hidden;
+}
+
+h4 a.permlink .permlink-text {
+	display: inline;
+}
+
+#content form {
+	margin: 0 20px;
+}
+
+#content form h3 {
+	margin: 0 -20px;
+}
+
+#sidebar #commentform {
+}
+
+#sidebar #commentform p {
+	width: 320px;
+	
+}
+
+#sidebar #commentform small {
+	font-size: 10px;
+	right: -80px;
+}
+
+#content img {
+	display: block;
+	padding: 10px;
+	margin-bottom: 15px;
+}
+
+#content .gallery .gallery-item img {
+	padding: 0;
+}
+
+/* @group content */
+
+/* @group table */
+
+/*#content .contentblock table {
+	width: 470px;
+	margin: 20px;
+}*/
+
+/* @end */
+
+/* @group blockquote */
+
+#content .contentblock blockquote {
+	padding: 0 0 1px 0;
+	background: none;
+	margin: 20px 0 0;
+	width: 500px;
+}
+
+#sidebar table {
+	position: relative;
+	left: 20px;
+}
+
+/* @end */
+
+
+
+/* @end */
+
+
+
+/* @end */
+
+/* @group specific */
+
+/* @group comments */
+
+/* @group newcommentform */
+
+
+
+/* @end */
+
+
+
+/* @end */
+
+
+
+/* @end */
+
+/* @group default */
+
+/* @group body */
+
+body {
+	padding-bottom: 20px;
+}
+
+/* @end */
+
+
+
+/* @end */

@@ -1,0 +1,13 @@
+/*  
+Theme: WP-Mobile
+*/
+body {
+	font-family: Arial, sans-serif;
+	direction:rtl;
+	unicode-bidi:embed;
+}
+
+ul li, ol li{
+margin-left:0;
+margin-right:10px;
+}

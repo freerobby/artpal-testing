@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/wordpress-tests/!svn/ver/47/wp-testdata/themedir1/sandbox
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/wordpress-tests/!svn/ver/47/wp-testdata/themedir1/sandbox/style.css
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/wordpress-tests/!svn/ver/47/wp-testdata/themedir1/sandbox/index.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/wordpress-tests/!svn/ver/47/wp-testdata/themedir1/sandbox/functions.php
+END

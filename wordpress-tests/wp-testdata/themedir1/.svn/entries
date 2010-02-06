@@ -1,0 +1,52 @@
+10
+
+dir
+289
+http://svn.automattic.com/wordpress-tests/wp-testdata/themedir1
+http://svn.automattic.com/wordpress-tests
+
+
+
+2009-11-13T19:16:47.998349Z
+258
+westi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4a5a2adb-35eb-4268-9a1b-fe04a4134342
+
+broken-theme
+dir
+
+theme1
+dir
+
+default
+dir
+
+page-templates
+dir
+
+subdir
+dir
+
+stylesheetonly
+dir
+
+sandbox
+dir
+
+theme1-dupe
+dir
+

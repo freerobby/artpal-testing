@@ -1,0 +1,45 @@
+/*  
+Theme Name: WordPress Mobile Edition Theme
+Theme URI: http://alexking.org/projects/wordpress/mobile
+Description: Theme for WordPress Mobile Edition
+Version: 2-WPCOM
+Author: Alex King
+Author URI: http://alexking.org/
+*/
+body {
+font-family: Verdana, sans-serif;
+background:#fff;
+font-size:14px;
+padding:0;
+margin:0;
+background:#eee;
+}
+body h1 {
+background: #000;
+color:#fff;
+padding:10px;
+margin:0;
+}
+h1, h2, h3, p {
+margin: 0 0 5px 0;
+padding: 0;
+}
+h1 {
+font-size:14px;
+}
+hr {
+color: #eee;
+height: 1px;
+display:none;
+}
+p, ul, ol, div, form {
+background:#fff;
+padding:10px;
+margin:10px;	
+}
+ul li, ol li{
+margin-left:10px;
+}
+li p {
+margin:0;
+}

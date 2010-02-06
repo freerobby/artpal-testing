@@ -1,0 +1,77 @@
+10
+
+dir
+289
+http://svn.automattic.com/wordpress-tests/wp-testdata
+http://svn.automattic.com/wordpress-tests
+
+
+
+2009-12-23T12:54:04.066171Z
+286
+westi
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+4a5a2adb-35eb-4268-9a1b-fe04a4134342
+
+export
+dir
+
+plugins
+dir
+
+themedir1
+dir
+
+images
+dir
+
+sample_blogs.php
+file
+
+
+
+
+2010-02-06T03:07:37.000000Z
+9c6ebaf0f64b9b33ee74d14f15bb2695
+2008-03-23T03:32:06.284380Z
+178
+tellyworth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2394
+
+jacob
+dir
+
